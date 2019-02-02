@@ -1,0 +1,2 @@
+core_cm3.h:971:22:NVIC_SetPendingIRQ	16	static
+main.c:47:5:main	8	static
